@@ -5,3 +5,6 @@
 
 ### soft
 * [《分布式系统原理与范型 第二版.pdf》](https://github.com/meacial/e-book/blob/master/soft/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%8C%83%E5%9E%8B%20%E7%AC%AC%E4%BA%8C%E7%89%88.pdf)
+
+### paper
+ * https://arxiv.org/abs/1804.00224
