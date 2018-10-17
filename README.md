@@ -19,3 +19,4 @@
 * [数据库内核月报](http://mysql.taobao.org/monthly/)
 * [Linux公社之数据库技术](https://www.linuxidc.com/MySql/)
 * [Linux公社](https://www.linuxidc.com)
+* [数据库月报](https://www.kancloud.cn/taobaomysql/monthly/67255)
